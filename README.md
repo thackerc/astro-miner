@@ -2,7 +2,7 @@
 
 Problem description [here](./Astro-miner.pdf).
 
-Code can be tested on the command line by running.
+Code can be tested on the command line by running:
 
 > cat input/basic.in | python3 mining_time_calculator.py
 
